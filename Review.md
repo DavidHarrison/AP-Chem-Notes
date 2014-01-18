@@ -14,20 +14,18 @@
 
 ## Counting to 10 in O-Chem
 
------------------------------------------------------
-Number of Carbons   Prefix      Alkane
------------------------------------------------------
-1                   meth-       CH~4~ -- methane
-2                   ethy-       C~2~H~6~ -- ethane
-3                   prop-       C~3~H~8~ -- ethane
-4                   but-       C~4~H~10~ -- butane 
-5                   pent-       C~5~H~12~ -- pentane
-6                   hex-       C~6~H~14~ -- hexane 
-7                   hept-       C~7~H~16~ -- heptane
-8                   oct-       C~8~H~18~ -- octane
-9                   non-       C~9~H~20~ -- nonane
-10                  dec-       C~10~H~22~ -- decane
------------------------------------------------------
+| Number of Carbons | Prefix | Alkane               |
+|-------------------|--------|----------------------|
+| 1                 | meth-  | CH~4~ -- methane     |
+| 2                 | ethy-  | C~2~H~6~ -- ethane   |
+| 3                 | prop-  | C~3~H~8~ -- ethane   |
+| 4                 | but-   | C~4~H~10~ -- butane  |
+| 5                 | pent-  | C~5~H~12~ -- pentane |
+| 6                 | hex-   | C~6~H~14~ -- hexane  |
+| 7                 | hept-  | C~7~H~16~ -- heptane |
+| 8                 | oct-   | C~8~H~18~ -- octane  |
+| 9                 | non-   | C~9~H~20~ -- nonane  |
+| 10                | dec-   | C~10~H~22~ -- decane |
 
 - -anes -- single bond
 - -enes -- double bond

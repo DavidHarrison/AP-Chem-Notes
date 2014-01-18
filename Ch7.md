@@ -1,4 +1,4 @@
-# Atomic Structures
+# Chapter 7: Atomic Structures
 ## Light
 - made of electro-magnetic radiation
     - consequence of atomic structure
@@ -13,8 +13,8 @@
     - h -- Plank's constant
     - f -- frequency
 - c (speed of light) in a vacuum = 2.998 x 10^8^ m/s
-- c = \lambda f
-    - \lambda -- wavelength
+- c = $\lambda$ f
+    - $\lambda$ -- wavelength
 
 ## In 1900
 - matter and energy were seen as different
@@ -22,20 +22,20 @@
 - energy -- waves
 
 - Plank found mass and energy were connected
-    - \Delta E = nhf (\Delta E in packets of hf)
+    - $\Delta$ E = nhf ($\Delta$ E in packets of hf)
     - h = 6.626 x 10^-34^ Jxs
     - these packets are called quanta
 - Einstein called the quanta photons
-- each photon has E = hf = (hc)/(\lambda)
+- each photon has E = hf = (hc)/($\lambda$)
 - combine this with E = mc^2^
-    - (hc)/(\lambda) = mc^2^
-    - m = (h)/(c \lambda) (apparent mass of a photon)
+    - (hc)/($\lambda$) = mc^2^
+    - m = (h)/(c $\lambda$) (apparent mass of a photon)
 
 ## Wave Particle Duality
 - waves act like matter
 - matter acts like waves
 - DeBroglie's wavelength
-    - \lambda = (h)/(mv)
+    - $\lambda$ = (h)/(mv)
 - can be used to calculate the wavelength of an object
 
 ## Diffraction
@@ -46,7 +46,7 @@
 - line spectrum
 - few discrete lines
 - only certain energies allowed
-- use \Delta E = hf = (hc)/(\lambda)
+- use $\Delta$ E = hf = (hc)/($\lambda$)
 - energy in the atom is quantized
 
 ## Niels Bohr
@@ -66,9 +66,9 @@
 - E = -2.178 x 10^-18^ J (Z^2^/n^2^)
     - Z -- the atomic number of the atom
     - n -- the energy level
-    - when the electron is removed n = \infinity, E = 0
-    - we are worried about the \Delta E
-    - \Delta E = E~final~ - E~initial~
+    - when the electron is removed n = $\infty$, E = 0
+    - we are worried about the $\Delta$ E
+    - $\Delta$ E = E~final~ - E~initial~
     - only true for mono-electric species
     - max energy at the nucleus
 
@@ -90,15 +90,15 @@
 - there is a limit to what we can know (we can't know how the electron is moving)
 
 ### Heisenberg
-- \Delta x \times \Delta (mv) > (h)/(4 \pi)
-    - \Delta x -- the uncertainty in position
-    - \Delta (mv) -- the uncertainty in momentum
-    - the minimum uncertainty possible is (h)/(4 \pi)
+- $\Delta$ x $\times$ $\Delta$ (mv) > (h)/(4 $\pi$)
+    - $\Delta$ x -- the uncertainty in position
+    - $\Delta$ (mv) -- the uncertainty in momentum
+    - the minimum uncertainty possible is (h)/(4 $\pi$)
 
 ### Wave Function
 - does not mean anything nothing concrete
 - cannot be mapped visually
-- the square of the function (\psi^2^) is the probability of finding an electron at a particular spot
+- the square of the function ($\psi$^2^) is the probability of finding an electron at a particular spot
 
 (see figures)
 

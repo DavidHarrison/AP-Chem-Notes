@@ -1,11 +1,12 @@
+# Chapter 9: Covalent Bonding: Orbitals
 ## Hybridization
 - sp^2 hybridization
     - 3 things\
-    - 1 \sigma 1 \pi bonds
+    - 1 $\sigma$ 1 $\pi$ bonds
 - sp hybridization
     - 2 things
-    - 1 \sigma 2 \pi bonds
-    - makes room for 2 \pi bonds and 2 \sigma bonds
+    - 1 $\sigma$ 2 $\pi$ bonds
+    - makes room for 2 $\pi$ bonds and 2 $\sigma$ bonds
     - a triple bond or 2 double bonds
 (see figure)
 
@@ -13,8 +14,8 @@
 - dsp3 hybridization
     - 5 things
     - trigonal bipyramidal
-    - can only form \sigma bonds
-    - *can't* form \pi bonds
+    - can only form $\sigma$ bonds
+    - *can't* form $\pi$ bonds
     - basic shape for five things
 - PCl5
     - model predicts that we must use the d orbitals
@@ -55,10 +56,10 @@
 Energy diagram (see figure)
 
 - we use labels to indicate shapes and whether the MOs are bonding or antibonding
-    - MO~1~ = \sigma~1s~
-    - MO~2~ = \sigma~1s\*~ (\* indicates antibonding)
+    - MO~1~ = $\sigma$~1s~
+    - MO~2~ = $\sigma$~1s\*~ (\* indicates antibonding)
 - can write them the same way as atomic orbitals
-    - H~2~ = 1\sigma~1s^2^~
+    - H~2~ = 1$\sigma$~1s^2^~
 - each MO can hold two electrons, but they must have opposite spins
 - orbitals are conserved (# of molecular orbitals = # of atomic orbitals)
 
@@ -71,7 +72,7 @@ Energy diagram (see figure)
 ## Paramagnetism
 - consequence of unpaired e-
 - O2 is paramagnetic, N2 is not
-- O2 contains 2 unpaired e- in the \pi~2p\*~ antibonding MO
-- N2 has 2 pairs in the \pi~2p~ MO
+- O2 contains 2 unpaired e- in the $\pi$~2p\*~ antibonding MO
+- N2 has 2 pairs in the $\pi$~2p~ MO
 
 - d orbitals do not form molecular orbitals
