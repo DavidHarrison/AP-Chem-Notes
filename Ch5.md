@@ -120,7 +120,7 @@
     - rate of diffusion describes the rate of mixing gases
 - effusion: the passage of a gas through a tiny hole
     - Graham's Law
-        - $\frac{\text{rate_{1}}}{\text{rate_{2}}} = \frac{\sqrt{M_{1}}}{\sqrt{M_{2}}}$
+        - $\frac{\text{rate}_{1}}{\text{rate}_{2}} = \sqrt{\frac{M_{1}}{M_{2}}}$
         - the more gas a mass has, the longer it takes to effuse
     - the lighter a gas is
         - the faster it moves
@@ -129,7 +129,7 @@
     - rate proportional to temperature
 
 - does it work for diffusion as well?
-    - $\frac{\text{distance_{1}}}{\text{distance_{2}}} = \sqrt{\frac{M_{1}}{M_{2}}}$
+    - $\frac{\text{distance}_{1}}{\text{distance}_{2}} = \sqrt{\frac{M_{1}}{M_{2}}}$
         - distance is the distance traveled to meet the other gas along a tube
     - it does, but not exactly (more going on)
 

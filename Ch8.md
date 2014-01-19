@@ -202,6 +202,7 @@
 | 6                      | 90                   | octagonal            |
 
 ### Actual Shape
+
 | electron pairs | bonding pairs | non-bonding pairs | shape                |
 |----------------|---------------|-------------------|----------------------|
 | 2              | 2             | 0                 | linear               |

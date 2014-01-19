@@ -23,19 +23,19 @@
 
 - Plank found mass and energy were connected
     - $\Delta$ E = nhf ($\Delta$ E in packets of hf)
-    - h = 6.626 x 10^-34^ Jxs
+    - h = \SI{6.626e-34}{\joule\second}
     - these packets are called quanta
 - Einstein called the quanta photons
-- each photon has E = hf = (hc)/($\lambda$)
-- combine this with E = mc^2^
-    - (hc)/($\lambda$) = mc^2^
-    - m = (h)/(c $\lambda$) (apparent mass of a photon)
+- each photon has $E = hf = \frac{hc}{\lambda}$
+- combine this with $E = mc^{2}$
+    - $\frac{hc}{\lambda} = mc^{2}$
+    - $m = \frac{h}{c \lambda}$ (apparent mass of a photon)
 
 ## Wave Particle Duality
 - waves act like matter
 - matter acts like waves
 - DeBroglie's wavelength
-    - $\lambda$ = (h)/(mv)
+    - $\lambda = \frac{h}{mv}$
 - can be used to calculate the wavelength of an object
 
 ## Diffraction
@@ -46,7 +46,7 @@
 - line spectrum
 - few discrete lines
 - only certain energies allowed
-- use $\Delta$ E = hf = (hc)/($\lambda$)
+- use $\Delta E = hf = \frac{hc}{\lambda}$
 - energy in the atom is quantized
 
 ## Niels Bohr
@@ -63,12 +63,12 @@
 
 (see figure for hydrogen model)
 
-- E = -2.178 x 10^-18^ J (Z^2^/n^2^)
+- $E = \SI{-2.178e-18}{\joule} (\frac{Z^{2}}{n^{2}})$
     - Z -- the atomic number of the atom
     - n -- the energy level
-    - when the electron is removed n = $\infty$, E = 0
-    - we are worried about the $\Delta$ E
-    - $\Delta$ E = E~final~ - E~initial~
+    - when the electron is removed $n = \infty$, E = 0
+    - we are worried about the $\Delta E$
+    - $\Delta E = E_{\text{final}} - E_{\text{initial}}$
     - only true for mono-electric species
     - max energy at the nucleus
 
@@ -90,15 +90,15 @@
 - there is a limit to what we can know (we can't know how the electron is moving)
 
 ### Heisenberg
-- $\Delta$ x $\times$ $\Delta$ (mv) > (h)/(4 $\pi$)
-    - $\Delta$ x -- the uncertainty in position
-    - $\Delta$ (mv) -- the uncertainty in momentum
-    - the minimum uncertainty possible is (h)/(4 $\pi$)
+- $\Delta x \times \Delta (mv) > \frac{h}{4 \pi}$
+    - $\Delta x$ -- the uncertainty in position
+    - $\Delta (mv)$ -- the uncertainty in momentum
+    - the minimum uncertainty possible is $\frac{h}{4 \pi}$
 
 ### Wave Function
 - does not mean anything nothing concrete
 - cannot be mapped visually
-- the square of the function ($\psi$^2^) is the probability of finding an electron at a particular spot
+- the square of the function ($\psi^{2}$) is the probability of finding an electron at a particular spot
 
 (see figures)
 
@@ -158,9 +158,9 @@
 - treat each electron as if it were affected by the net field of charge from the attraction of the nucleus and the repulsion of the electrons
 - effective nuclear charge
     - can be calculated
-        - E = -2.178 x 10^-18^ J x (Z~eff~^2^/n^2^)
+        - $E = \SI{-2.178e-18}{\joule} \times (\frac{Z_{\text{eff}}^{2}}{n^{2}})$
         - and
-        - E = -2.178 x 10^-18^ J x (Z~eff~^2^) x ((1/n~final~^2^) - (1/n~initial~^2^))
+        - $E = \SI{-2.178e-18}{\joule} \times Z_{\text{eff}}^{2} \times (\frac{1}{n_{\text{final}}^{2}} - \frac{1}{n_{\text{final}}^{2}})$
 - developed independently by German Julius Lothar Meyer and Russian Dimitri Mendeleev (1870s)
 - didn't know much about the atom
 - put in columns by similar properties
@@ -205,7 +205,7 @@
 - can use the amount of energy it takes to remove an electron for this
 - ionization energy -- the energy necessary to remove an electron from a gaseous atom
 
-- E = -2.18 x 10^-18^ x (Z^2^/n^2^)
+- $E = \SI{-2.18e-18}{\joule} \times (\frac{Z^{2}}{n^{2}})$
     - true for the Bohr atom
     - can be derived for quantum model as sell
 
